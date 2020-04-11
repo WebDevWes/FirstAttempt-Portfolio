@@ -87,3 +87,26 @@ footer{
     color: white;
     border-top: solid 8px #4aaaa5;
 }
+
+.submitBtn{
+    background-color: #4aaaa5;
+    width: 100px;
+    height: 33px;
+    font-size: 15px;
+    color: white;
+}
+
+h3{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.textInput{
+    width: 920px;
+    height: 2em;
+}
+
+.messageInput{
+    width: 100%;
+    height: 200px;
+}
