@@ -1,5 +1,5 @@
 # FirstAttempt-Portfolio
-Homework/My first attempt at a professional portfolio/practice
+My first attempt at a professional portfolio/practice
 
 Utlizing this opportunity to both learn CSS and create a professional portfolio for employment opportunities.
 
